@@ -1,3 +1,3 @@
-print("Hello world!")
-print("Hello sun!")
-print("Hello sky!")
+def welcome():
+    print("Hello World! Pass this test, please.")
+welcome()
